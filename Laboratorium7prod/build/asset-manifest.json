@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ProgramowanieWJezykachSkryptowych/static/css/main.d8141e09.css",
+    "main.js": "/ProgramowanieWJezykachSkryptowych/static/js/main.40e9ca09.js",
+    "static/js/453.ed3810f9.chunk.js": "/ProgramowanieWJezykachSkryptowych/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/ProgramowanieWJezykachSkryptowych/index.html",
+    "main.d8141e09.css.map": "/ProgramowanieWJezykachSkryptowych/static/css/main.d8141e09.css.map",
+    "main.40e9ca09.js.map": "/ProgramowanieWJezykachSkryptowych/static/js/main.40e9ca09.js.map",
+    "453.ed3810f9.chunk.js.map": "/ProgramowanieWJezykachSkryptowych/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8141e09.css",
+    "static/js/main.40e9ca09.js"
+  ]
+}
