@@ -4,7 +4,7 @@
 
 | Nr | Temat                          | Link do repozytorium                                                                 |
 |----|--------------------------------|---------------------------------------------------------------------------------------|
-| 1  | Laboratorium 1                 | [Zobacz](https://github.com/DzhynHo/KhylchenkoValeriia21279/tree/main/Laboratorium1) |
+| 1  | Laboratorium 1                 | [Zobacz]([https://github.com/DzhynHo/KhylchenkoValeriia21279/tree/main/Laboratorium1](https://github.com/DzhynHo/ProgramowanieWJezykachSkryptowych/blob/main/Laboratorium1/lab1.html)) |
 | 2  | Laboratorium 2                 | [Zobacz](https://github.com/DzhynHo/KhylchenkoValeriia21279/tree/main/Laboratorium2) |
 | 4  | Laboratorium 4                 | [Zobacz](https://github.com/DzhynHo/ProgramowanieWJezykachSkryptowych/tree/main/Laboratorium4) |
 | 5  | Laboratorium 5                 | [Zobacz](https://github.com/DzhynHo/ProgramowanieWJezykachSkryptowych/tree/main/Laboratorium5) |
