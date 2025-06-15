@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/ProgramowanieWJezykachSkryptowych/Projekt/static/css/main.dd980c25.css",
-    "main.js": "/ProgramowanieWJezykachSkryptowych/Projekt/static/js/main.2e9ada55.js",
-    "static/js/453.ed3810f9.chunk.js": "/ProgramowanieWJezykachSkryptowych/Projekt/static/js/453.ed3810f9.chunk.js",
-    "static/media/beer money.ttf": "/ProgramowanieWJezykachSkryptowych/Projekt/static/media/beer money.9140c11a6ce52eba2d19.ttf",
-    "static/media/fish-walk-1.png": "/ProgramowanieWJezykachSkryptowych/Projekt/static/media/fish-walk-1.d6871bb0efb0b6526239.png",
-    "static/media/fish-extra-3.png": "/ProgramowanieWJezykachSkryptowych/Projekt/static/media/fish-extra-3.a56f2464b9e37bede392.png",
-    "static/media/fish-extra-2.png": "/ProgramowanieWJezykachSkryptowych/Projekt/static/media/fish-extra-2.3743fef0aee04b692049.png",
-    "static/media/fish-walk-2.png": "/ProgramowanieWJezykachSkryptowych/Projekt/static/media/fish-walk-2.ec6baaf531b8ad62505e.png",
-    "static/media/fish-extra-1.png": "/ProgramowanieWJezykachSkryptowych/Projekt/static/media/fish-extra-1.edf74459fcb9b59c9097.png",
-    "static/media/fish-standing.png": "/ProgramowanieWJezykachSkryptowych/Projekt/static/media/fish-standing.68af60163f58d48a0c49.png",
-    "static/media/slick.svg": "/ProgramowanieWJezykachSkryptowych/Projekt/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/ProgramowanieWJezykachSkryptowych/Projekt/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/ProgramowanieWJezykachSkryptowych/Projekt/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/ProgramowanieWJezykachSkryptowych/Projekt/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/ProgramowanieWJezykachSkryptowych/Projekt/index.html",
-    "main.dd980c25.css.map": "/ProgramowanieWJezykachSkryptowych/Projekt/static/css/main.dd980c25.css.map",
-    "main.2e9ada55.js.map": "/ProgramowanieWJezykachSkryptowych/Projekt/static/js/main.2e9ada55.js.map",
-    "453.ed3810f9.chunk.js.map": "/ProgramowanieWJezykachSkryptowych/Projekt/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "./static/css/main.8fe6e23f.css",
+    "main.js": "./static/js/main.c8644ba8.js",
+    "static/js/453.ed3810f9.chunk.js": "./static/js/453.ed3810f9.chunk.js",
+    "static/media/beer money.ttf": "./static/media/beer money.9140c11a6ce52eba2d19.ttf",
+    "static/media/fish-walk-1.png": "./static/media/fish-walk-1.d6871bb0efb0b6526239.png",
+    "static/media/fish-extra-3.png": "./static/media/fish-extra-3.a56f2464b9e37bede392.png",
+    "static/media/fish-extra-2.png": "./static/media/fish-extra-2.3743fef0aee04b692049.png",
+    "static/media/fish-walk-2.png": "./static/media/fish-walk-2.ec6baaf531b8ad62505e.png",
+    "static/media/fish-extra-1.png": "./static/media/fish-extra-1.edf74459fcb9b59c9097.png",
+    "static/media/fish-standing.png": "./static/media/fish-standing.68af60163f58d48a0c49.png",
+    "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "./index.html",
+    "main.8fe6e23f.css.map": "./static/css/main.8fe6e23f.css.map",
+    "main.c8644ba8.js.map": "./static/js/main.c8644ba8.js.map",
+    "453.ed3810f9.chunk.js.map": "./static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd980c25.css",
-    "static/js/main.2e9ada55.js"
+    "static/css/main.8fe6e23f.css",
+    "static/js/main.c8644ba8.js"
   ]
 }
