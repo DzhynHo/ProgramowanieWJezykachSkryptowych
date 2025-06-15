@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/ProgramowanieWJezykachSkryptowych/static/css/main.e6a2319b.css",
-    "main.js": "/ProgramowanieWJezykachSkryptowych/static/js/main.25f13b57.js",
-    "static/js/453.ed3810f9.chunk.js": "/ProgramowanieWJezykachSkryptowych/static/js/453.ed3810f9.chunk.js",
-    "static/media/beer money.ttf": "/ProgramowanieWJezykachSkryptowych/static/media/beer money.9140c11a6ce52eba2d19.ttf",
-    "static/media/fish-walk-1.png": "/ProgramowanieWJezykachSkryptowych/static/media/fish-walk-1.d6871bb0efb0b6526239.png",
-    "static/media/fish-extra-3.png": "/ProgramowanieWJezykachSkryptowych/static/media/fish-extra-3.a56f2464b9e37bede392.png",
-    "static/media/fish-extra-2.png": "/ProgramowanieWJezykachSkryptowych/static/media/fish-extra-2.3743fef0aee04b692049.png",
-    "static/media/fish-walk-2.png": "/ProgramowanieWJezykachSkryptowych/static/media/fish-walk-2.ec6baaf531b8ad62505e.png",
-    "static/media/fish-extra-1.png": "/ProgramowanieWJezykachSkryptowych/static/media/fish-extra-1.edf74459fcb9b59c9097.png",
-    "static/media/fish-standing.png": "/ProgramowanieWJezykachSkryptowych/static/media/fish-standing.68af60163f58d48a0c49.png",
-    "static/media/slick.svg": "/ProgramowanieWJezykachSkryptowych/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/ProgramowanieWJezykachSkryptowych/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/ProgramowanieWJezykachSkryptowych/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/ProgramowanieWJezykachSkryptowych/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/ProgramowanieWJezykachSkryptowych/index.html",
-    "main.e6a2319b.css.map": "/ProgramowanieWJezykachSkryptowych/static/css/main.e6a2319b.css.map",
-    "main.25f13b57.js.map": "/ProgramowanieWJezykachSkryptowych/static/js/main.25f13b57.js.map",
-    "453.ed3810f9.chunk.js.map": "/ProgramowanieWJezykachSkryptowych/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/ProgramowanieWJezykachSkryptowych/Projekt/static/css/main.dd980c25.css",
+    "main.js": "/ProgramowanieWJezykachSkryptowych/Projekt/static/js/main.7d813d10.js",
+    "static/js/453.ed3810f9.chunk.js": "/ProgramowanieWJezykachSkryptowych/Projekt/static/js/453.ed3810f9.chunk.js",
+    "static/media/beer money.ttf": "/ProgramowanieWJezykachSkryptowych/Projekt/static/media/beer money.9140c11a6ce52eba2d19.ttf",
+    "static/media/fish-walk-1.png": "/ProgramowanieWJezykachSkryptowych/Projekt/static/media/fish-walk-1.d6871bb0efb0b6526239.png",
+    "static/media/fish-extra-3.png": "/ProgramowanieWJezykachSkryptowych/Projekt/static/media/fish-extra-3.a56f2464b9e37bede392.png",
+    "static/media/fish-extra-2.png": "/ProgramowanieWJezykachSkryptowych/Projekt/static/media/fish-extra-2.3743fef0aee04b692049.png",
+    "static/media/fish-walk-2.png": "/ProgramowanieWJezykachSkryptowych/Projekt/static/media/fish-walk-2.ec6baaf531b8ad62505e.png",
+    "static/media/fish-extra-1.png": "/ProgramowanieWJezykachSkryptowych/Projekt/static/media/fish-extra-1.edf74459fcb9b59c9097.png",
+    "static/media/fish-standing.png": "/ProgramowanieWJezykachSkryptowych/Projekt/static/media/fish-standing.68af60163f58d48a0c49.png",
+    "static/media/slick.svg": "/ProgramowanieWJezykachSkryptowych/Projekt/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/ProgramowanieWJezykachSkryptowych/Projekt/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/ProgramowanieWJezykachSkryptowych/Projekt/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/ProgramowanieWJezykachSkryptowych/Projekt/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/ProgramowanieWJezykachSkryptowych/Projekt/index.html",
+    "main.dd980c25.css.map": "/ProgramowanieWJezykachSkryptowych/Projekt/static/css/main.dd980c25.css.map",
+    "main.7d813d10.js.map": "/ProgramowanieWJezykachSkryptowych/Projekt/static/js/main.7d813d10.js.map",
+    "453.ed3810f9.chunk.js.map": "/ProgramowanieWJezykachSkryptowych/Projekt/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6a2319b.css",
-    "static/js/main.25f13b57.js"
+    "static/css/main.dd980c25.css",
+    "static/js/main.7d813d10.js"
   ]
 }
