@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ProgramowanieWJezykachSkryptowych/Projekt/static/css/main.dd980c25.css",
-    "main.js": "/ProgramowanieWJezykachSkryptowych/Projekt/static/js/main.7d813d10.js",
+    "main.js": "/ProgramowanieWJezykachSkryptowych/Projekt/static/js/main.2e9ada55.js",
     "static/js/453.ed3810f9.chunk.js": "/ProgramowanieWJezykachSkryptowych/Projekt/static/js/453.ed3810f9.chunk.js",
     "static/media/beer money.ttf": "/ProgramowanieWJezykachSkryptowych/Projekt/static/media/beer money.9140c11a6ce52eba2d19.ttf",
     "static/media/fish-walk-1.png": "/ProgramowanieWJezykachSkryptowych/Projekt/static/media/fish-walk-1.d6871bb0efb0b6526239.png",
@@ -16,11 +16,11 @@
     "static/media/slick.woff": "/ProgramowanieWJezykachSkryptowych/Projekt/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/ProgramowanieWJezykachSkryptowych/Projekt/index.html",
     "main.dd980c25.css.map": "/ProgramowanieWJezykachSkryptowych/Projekt/static/css/main.dd980c25.css.map",
-    "main.7d813d10.js.map": "/ProgramowanieWJezykachSkryptowych/Projekt/static/js/main.7d813d10.js.map",
+    "main.2e9ada55.js.map": "/ProgramowanieWJezykachSkryptowych/Projekt/static/js/main.2e9ada55.js.map",
     "453.ed3810f9.chunk.js.map": "/ProgramowanieWJezykachSkryptowych/Projekt/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd980c25.css",
-    "static/js/main.7d813d10.js"
+    "static/js/main.2e9ada55.js"
   ]
 }
